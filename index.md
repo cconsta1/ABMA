@@ -19,19 +19,19 @@
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
 *• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
 ### Chapter 2: Trading up to Complex Models of Economic Interaction
 *• Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 3"></a>
 ### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
 *• Tutorial in advanced NetLogo: complex structures • Definitions of parametrization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code?*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh">
 
@@ -41,21 +41,21 @@
 ### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
 *• Algorithm zoo: pedestrian movement, e.g., random walk • Algorithm zoo: group migrations & population dispersals • Simulation scales • Types of validation • What is equifinality?*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch4"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 5"></a>
 ### Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? 
 *• Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch5"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 6"></a>
 ### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
 *• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh">
@@ -66,19 +66,19 @@
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
 *• Types of spatial data • Tutorial on how to handle GIS data in NetLogo • How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch7"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 8"></a>
 ### Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
 *• Theory to data modeling spectrum • What is relational data? • Tutorial on NetLogo’s network extension • Fundamentals of network science • How to test the code?*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch8"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 9"></a>
 ### Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
 *• The principles of experiment design • Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch9"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Squarespace">
