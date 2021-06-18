@@ -1,6 +1,6 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
-<a href="https://www.npr.org/"> Get PDF of Book </a>     <a href="https://www.npr.org/"> Order the Book </a>
+<a href="https://www.npr.org/"> Get PDF of Book </a>     <a href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017506-758PD0BD4OWX6M4FQROQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/x10+Chapter9+Khoy++26B.png?format=2500w" alt="Nasuh">
 
@@ -182,4 +182,4 @@ Stefani A. Crabtree
 </details>
              
 <a name="To Order Book"></a>                 
-## [To Order Book](https://www.npr.org/)
+## [To Order Book](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021)
