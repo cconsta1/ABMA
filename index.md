@@ -2,7 +2,7 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 <a href="https://www.npr.org/"> Get PDF of Book </a>     <a href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ke17ZwdGBToddI8pDm48kGdXwE-vebEpgb33VwdtsTxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzGV7LIwip3QSYojPSY9dS2xXB3RsiHHU6fWw3UyL09BI_B4Ik0O_rS_C8vg2diqs4/ABMA_cover_web-600.png?format=1500w" alt="Nasuh">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ke17ZwdGBToddI8pDm48kGdXwE-vebEpgb33VwdtsTxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzGV7LIwip3QSYojPSY9dS2xXB3RsiHHU6fWw3UyL09BI_B4Ik0O_rS_C8vg2diqs4/ABMA_cover_web-600.png?format=1500w" alt="Nasuh" style="width:500px;height:300px;">
 
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
