@@ -8,7 +8,7 @@
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
 *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>     <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #FF7A59" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #FF7A59" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh">
@@ -19,13 +19,13 @@
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
 *• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #FF7A59" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #FF7A59" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #FF7A59" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
 ### Chapter 2: Trading up to Complex Models of Economic Interaction
 *• Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques*
 
-<a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #FF7A59" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #FF7A59" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #FF7A59" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 3"></a>
 ### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
