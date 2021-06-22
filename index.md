@@ -98,12 +98,12 @@
 
 <br>
 
-<a name="Entire Book (PDF)"></a>
+<a style="color: #FF7A59" name="Entire Book (PDF)"></a>
 ## [Entire Book (PDF)](https://www.npr.org/)
 
 <br>
 
-<a name="External Resources"></a>
+<a style="color: #FF7A59" name="External Resources"></a>
 ## [External Resources](https://www.npr.org/)
 
 <details>
@@ -128,7 +128,7 @@ Click here to see the list of external resources.
  </ol>
 </details>
 
-<a name="Bibliography"></a>
+<a style="color: #FF7A59" name="Bibliography"></a>
 ## [Bibliography](https://www.npr.org/)
 
 <a name="About the Authors"></a>
@@ -178,5 +178,5 @@ Stefani A. Crabtree
 </p>
 </details>
              
-<a name="To Order Book"></a>                 
+<a style="color: #FF7A59" name="To Order Book"></a>                 
 ## [To Order Book](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021)
