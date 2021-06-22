@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -28,13 +28,13 @@
         </ul>
         {% endif %}
         
-      <a href="#Ch. 0 - Introduction">Introduction</a>
+      <a href="#Introduction">Ch. 0 - Introduction</a>
       <a href="path/to/contributing/index.md#INTRODUCTION">
       <br>
       <a href="#Part I: LEARNING TO WALK">Part I: Learning to Walk</a>
       <a href="path/to/contributing/index.md#Part_1:_LEARNING_TO_WALK">
       <br>
-      <a href="#Ch.1 - Movement Fundamentals">Chapter 1</a>
+      <a href="#Chapter 1">Ch.1 - Movement Fundamentals</a>
       <a href="path/to/contributing/index.md#Chapter_1">
       <br>
       <a href="#Ch.2 - Exchange Fundamentals">Chapter 2</a>
