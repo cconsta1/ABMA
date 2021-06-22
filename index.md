@@ -1,6 +1,6 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
-<a href="https://www.npr.org/"> Get PDF of Book </a>     <a href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
+<a style="color: #FF7A59" href="https://www.npr.org/"> Get PDF of Book </a>     <a style="color: #FF7A59" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392525207-7VAO0EMDZHADE2EWOREC/ke17ZwdGBToddI8pDm48kG8UBA41wS1R7AvxRh_wkwNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpze26jBNtoki230X-gM1LVvNyVntGK3L31vDiVkQOhNOK2f7ze3Qo1Gqhr7QittBso/ABMA-cover-slice-600.png?format=2500w" alt="Cover slice">
 
