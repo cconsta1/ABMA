@@ -6,7 +6,7 @@
 
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
-<p style="background-color: #E66100"> *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book* </p>
+<i> <p style="background-color: #FFA100"> • Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book </i> </p>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
