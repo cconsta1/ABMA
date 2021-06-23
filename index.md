@@ -2,7 +2,7 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 <a style="color: #E66100" href="https://www.npr.org/"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
-<a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392525207-7VAO0EMDZHADE2EWOREC/ke17ZwdGBToddI8pDm48kG8UBA41wS1R7AvxRh_wkwNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpze26jBNtoki230X-gM1LVvNyVntGK3L31vDiVkQOhNOK2f7ze3Qo1Gqhr7QittBso/ABMA-cover-slice-600.png?format=2500w" alt="Cover slice"> </a>
+<a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392525207-7VAO0EMDZHADE2EWOREC/ke17ZwdGBToddI8pDm48kG8UBA41wS1R7AvxRh_wkwNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpze26jBNtoki230X-gM1LVvNyVntGK3L31vDiVkQOhNOK2f7ze3Qo1Gqhr7QittBso/ABMA-cover-slice-600.png?format=2500w" alt="Textbook Cover"> </a>
 
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
@@ -11,7 +11,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh image">
 
 <a name="Part I: LEARNING TO WALK"></a>
 ## PART I:  LEARNING TO WALK
@@ -33,7 +33,7 @@
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh image">
 
 <a name="Part II: LEARNING TO RUN"></a>
 ## Part II: LEARNING TO RUN
@@ -58,7 +58,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh image">
 
 <a name="Part III: LEARNING TO FLY"></a>
 ## Part III: LEARNING TO FLY
@@ -81,7 +81,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch9"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Squarespace">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Nasuh image">
 
 <a name="Conclusion"></a>
 ## Conclusion
@@ -89,7 +89,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w" alt="Squarespace">
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w" alt="Nasuh image">
 
 <a name="Appendix"></a>
 ## Appendix
@@ -139,7 +139,7 @@ Click here to see the list of external resources.
 Iza Romanowska
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704154528-LFAG0DHZRXJ2RAKF6U9V/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Iza_Romanowska_475px.jpg?format=750w" alt="Squarespace" style="width:300px;height:300px;">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704154528-LFAG0DHZRXJ2RAKF6U9V/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Iza_Romanowska_475px.jpg?format=750w" alt="Iza Romanowska" style="width:300px;height:300px;">
   
   <br>
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
@@ -153,7 +153,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705325008-O1YGEGMQ60OCW3MPDAFJ/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Colin_Wren_375px.jpg?format=750w" alt="Squarespace" style="width:300px;height:300px;">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705325008-O1YGEGMQ60OCW3MPDAFJ/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Colin_Wren_375px.jpg?format=750w" alt="Colin D. Wren" style="width:300px;height:300px;">
   <br>
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
@@ -168,7 +168,7 @@ Colin D. Wren
 Stefani A. Crabtree
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705324014-Y9LFV2KC712F96HDOVK8/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Stefani_Crabtree_375px.jpg?format=750w" alt="Squarespace" style="width:300px;height:300px;"> 
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705324014-Y9LFV2KC712F96HDOVK8/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Stefani_Crabtree_375px.jpg?format=750w" alt="Stefani A. Crabtree" style="width:300px;height:300px;"> 
              
  <br>
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     
