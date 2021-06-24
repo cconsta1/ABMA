@@ -14,7 +14,7 @@ To make changes to the static sidebar on the left-hand side of the website, stay
 The following code changes the text and color of the header at the top of the left sidebar. The html color hexcode `"#000000"` makes the text black. To add a background color behind the text, add in `style="background-color: #000000"` (in this instance the zeros will make the background color black. The complete code with a background color added would look like this:` <p style="background-color: #000000" style="color: #000000">`. Change the text by changing the text of "Agent-Based Modeling for Archaeology" in the following section: `<Agent-Based Modeling for Archaeology</p>`. \
         `<h1>` \
           `<p style="color: #000000">Agent-Based Modeling for Archaeology</p>` \
-        `</h1>` \
+        `</h1>` 
 
 The anchors on the sidebar are put in place with the following code:
 
