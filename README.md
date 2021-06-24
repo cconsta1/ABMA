@@ -12,18 +12,18 @@ To make changes to the static sidebar on the left-hand side of the website, stay
 
 
 The following code changes the text and color of the header at the top of the left sidebar. The html color hexcode `"#000000"` makes the text black. To add a background color behind the text, add in `style="background-color: #000000"` (in this instance the zeros will make the background color black. The complete code with a background color added would look like this:` <p style="background-color: #000000" style="color: #000000">`. Change the text by changing the text of "Agent-Based Modeling for Archaeology" in the following section: `<Agent-Based Modeling for Archaeology</p>`. 
-        `<h1>
-          <p style="color: #000000">Agent-Based Modeling for Archaeology</p>
+        `<h1> \
+          <p style="color: #000000">Agent-Based Modeling for Archaeology</p> \
         </h1>`
 
 The anchors on the sidebar are put in place with the following code:
 
-(1)      `<a style="color: #E66100" href="#INTRODUCTION">Ch. 0 • Introduction</a>`
+(1)      `<a style="color: #E66100" href="#INTRODUCTION">Ch. 0 • Introduction</a>` \
 (2)      `<a href="path/to/contributing/index.md#INTRODUCTION">`
       
 The text `>Ch. 0 • Introduction</a>` will appear in the sidebar as a clickable link. The `href="path/to/contributing/index.md#INTRODUCTION">` is the code that makes the anchor work. This references the following code in the `index.md`:
   
-(3)      `<a name="INTRODUCTION"></a>`
+(3)      `<a name="INTRODUCTION"></a>` \
 (4)      `### INTRODUCTION: The Art & Science of Building Societies in Silico`
 
 which, along with the href part of (1), relies on the `name="INTRODUCTION">` being *above* the actual Introduction title in order for the anchor to redirect to the title. If `name="INTRODUCTION">` were located underneath the actual Introduction title, the anchor redirection would omit the title and direct the readers straight to the chapter description. 
