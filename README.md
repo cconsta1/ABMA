@@ -2,6 +2,9 @@
 These are website maintenance instructions for the Agent-Based Modeling for Archaeology website.
 
 
+The website theme code is accessed through `ABMA/config.yml`. Here we have used the Jekyll theme "Minimal", which is called in `theme: jekyll-theme-minimal`. The title of the of the website (that appears in the main section, not the left sidebar) is called in `title: Agent-Based Modeling for Archaeology`. The picture on the sidebar is called in `logo:`. Line 4, `show_downloads: false` is there so that any GitHub, ZIP File, or TAR Ball downloads that might show up do not actually show up (we needed to save space to have all of the chapter headings in the sidebar). 
+
+
 To make changes to the website, navigate through `SantaFeInstitute` --> `ABMA` and select `gh-pages` from the **master** dropdown above the individual chapter folders. (If you are here, you have already done that. Congratulations!)
 
 
