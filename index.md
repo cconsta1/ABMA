@@ -144,8 +144,7 @@ Iza Romanowska
   <br>
   <a href="https://twitter.com/iza_romanowska?lang=en"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
-<p> COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus, Denmark; previously head of the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center, Spain.
-I am a complexity scientist working at the interface between social sciences and computer science having originally trained and worked as a prehistoric archaeologist before switching to computer-based research. I specialise in agent-based modelling - a simulation technique I use for various research questions, from mobility in prehistoric cities, the first Out-of-Africa human dispersal, to large-scale economic interactions across the Roman Mediterranean and real-time pedestrian flows in modern sports venues. </a>
+<p> Iza Romanowska is a COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus, Denmark; previously head of the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center, Spain. She is a complexity scientist working at the interface between social sciences and computer science, having originally trained and worked as a prehistoric archaeologist before switching to computer-based research. She specializes in agent-based modeling, a simulation technique she uses for various research questions, from mobility in prehistoric cities and the first out-of-Africa human dispersal to large-scale economic interactions across the Roman Mediterranean and real-time pedestrian flows in modern sports venues. </a>
 </p>
 </details>
 
