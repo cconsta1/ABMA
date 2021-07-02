@@ -10,11 +10,14 @@ Really not sure how this will wrap with text, but it should ideally float to the
 
 ### Now let's try some reviewer quotes.
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" hspace="10" vspace="5" style="width:300px;height:400px;" alt="Textbook Cover"> </a>
-"Man arriving late to meet friends at restaurant banished to farthest reaches of table." - <i> The New York Times </i>
 
-"Borderline sacrilege: some sick freak drew fan art of Mario just wearing normal jeans." - <i> The Washington Post </i>
+<br>
 
-"Experts warn that heat wave coul lead to huge surge in shirtless Italian grandpas with wet washcloths on head." - <i> The Boston Globe </i>
+"We cannot imagine a book that would better fill the previously empty archaeological textbook modeling niche." - <i> The New York Times </i>
+
+"This book is so cool that even a highly critical seven-year-old would like it!" - <i> The Washington Post </i>
+
+"We plan to give this book as a gift to all of our friends for every upcoming holiday. For years." - <i> The Boston Globe </i>
 
 <br>
 
