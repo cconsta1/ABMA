@@ -203,3 +203,7 @@ About The SFI Press
   <p> Our volumes range from works intended for a general readership to highly technical monographs for specialized audiences and are written by respected thinkers from around the globe working in fields as diverse as paleobiology, historiography, computer science, quantum physics, and medical anthropology—to name but a few. </p>
  
 </details>
+
+<p style="color: #E66100">_________________________________________________________________________________________________________________________________________________________________</p>
+
+<p style="color:#808080">This website was designed in 2021 by the Santa Fe Institute Press.> </p>
