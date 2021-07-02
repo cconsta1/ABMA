@@ -11,12 +11,13 @@
 
 "We plan to give this book as a gift to all of our friends for every upcoming holiday. For years." - <i> The Boston Globe </i>
 
+<br>
+<br>
+
 ### This is how it would look if the following text were a blurb about the book.
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" vspace="5" style="width:300px;height:400px;" alt="Textbook Cover"> </a>
 The only way that the picture will left-align all the way with the rest of the website text is if we allow there to be no separation between the text on the right side of the image (it doesn't look good). A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019. Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show.
 
-<br>
-<br>
 
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
