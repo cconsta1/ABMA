@@ -191,9 +191,10 @@ Stefani A. Crabtree
 <a name="To Order Book"></a>                 
 ## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> To Order Book </a>
 
-<center>
+
 <a name="SFI Press"></a>
 ## <a style="color: #E66100" href="https://www.sfipress.org/"> The Santa Fe Institute Press </a>
+<center>
 <a href="https://www.sfipress.org/"> <img src="https://images.squarespace-cdn.com/content/5d420e5d999d0200013d33c3/1564611462862-ZZCEQCTXQZT3DQFEWN18/SFI+PRESS_bw-01.png?content-type=image%2Fpng" class="center" style="width:400px;height:150px;" alt="SFI Press logo"> </a>
 </center>
 
