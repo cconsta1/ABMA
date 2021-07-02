@@ -1,6 +1,5 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
-<a style="color: #E66100" href="https://www.npr.org/"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
 ### A book well worth your time . . . 
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" hspace="10" vspace="5" style="width:300px;height:400px;" alt="Textbook Cover"> </a>
@@ -13,6 +12,8 @@
 
 <br>
 <br>
+
+<a style="color: #E66100" href="https://www.npr.org/"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
