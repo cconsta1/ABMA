@@ -159,7 +159,7 @@ Iza Romanowska
   <br>
   <a href="https://twitter.com/iza_romanowska?lang=en"> Twitter </a>     <a href="https://aias.au.dk/aias-fellows/iza-romanowska/"> Website </a>
   
-<p> Iza Romanowska is a COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus, Denmark; previously head of the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center, Spain. She is a complexity scientist working at the interface between social sciences and computer science, having originally trained and worked as a prehistoric archaeologist before switching to computer-based research. She specializes in agent-based modeling, a simulation technique she uses for various research questions, from mobility in prehistoric cities and the first out-of-Africa human dispersal to large-scale economic interactions across the Roman Mediterranean and real-time pedestrian flows in modern sports venues. </a>
+<p> Iza Romanowska is a COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus, Denmark; previously head of the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center, Spain. She is a complexity scientist working at the interface between social sciences and computer science, having originally trained and worked as a prehistoric archaeologist before switching to computer-based research. She specializes in agent-based modeling, a simulation technique she uses for various research questions, from mobility in prehistoric cities and the first out-of-Africa human dispersal to large-scale economic interactions across the Roman Mediterranean and real-time pedestrian flows in modern sports venues. 
 </p>
 </details>
 
@@ -212,7 +212,8 @@ About The Santa Fe Institute Press
 </summary>
  <p> The Press was founded on the principle that excellent scholarship need not be prohibitively expensive. At every stage of publication, we strive for    nimbleness, moving quickly to circulate throughout the world new ideas stemming from work conducted by the Santa Fe Institute’s vast network of researchers. 
 
- <br>
+  <br>
+  <br>
   
   Our volumes range from works intended for a general readership to highly technical monographs for specialized audiences and are written by respected thinkers from around the globe working in fields as diverse as paleobiology, historiography, computer science, quantum physics, and medical anthropology—to name but a few. </p>
  
