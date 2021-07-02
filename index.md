@@ -107,12 +107,8 @@
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
-<br>
-
 <a name="Entire Book (PDF)"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> Entire Book (PDF) </a>
-
-<br>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> External Resources </a>
