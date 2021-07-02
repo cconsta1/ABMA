@@ -16,6 +16,8 @@ Really not sure how this will wrap with text, but it should ideally float to the
 
 "Experts warn that heat wave coul lead to huge surge in shirtless Italian grandpas with wet washcloths on head." - <i> The Boston Globe </i>
 
+<br>
+
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
 <i> • Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book </i>
