@@ -204,6 +204,10 @@ About The SFI Press
  
 </details>
 
+
+<br>
+
+
 <p style="color: #E66100">___________________________________________________________________________________________________________________________________</p>
 
 <p style="color:#808080">This website was designed in 2021 by the Santa Fe Institute Press.</p>
