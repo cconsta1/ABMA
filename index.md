@@ -5,7 +5,7 @@
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392525207-7VAO0EMDZHADE2EWOREC/ke17ZwdGBToddI8pDm48kG8UBA41wS1R7AvxRh_wkwNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpze26jBNtoki230X-gM1LVvNyVntGK3L31vDiVkQOhNOK2f7ze3Qo1Gqhr7QittBso/ABMA-cover-slice-600.png?format=2500w" alt="Textbook Cover"> </a>
 
 ### Let's try looking at the full cover of the textbook, with wrapped and unwrapped text. (Will it work??)
-<a href="https://www.sfipress.org/nasuh-images-abma/"> <img src="https://www.sfipress.org/nasuh-images-abma/" align = "left" hspace="50" vspace="50" alt="Textbook Cover"> </a>
+<a href="https://www.npr.org"> <img src="https://www.sfipress.org/nasuh-images-abma/" align = "left" hspace="50" vspace="50" alt="Textbook Cover"> </a>
 Really not sure how this will wrap with text, but it should ideally float to the left. This will be a clickable image. Will practice with a long paragraph to see what happens. A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019. Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show.
 
 
