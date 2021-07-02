@@ -210,8 +210,17 @@ Our volumes range from works intended for a general readership to highly technic
 <summary>
 About The Santa Fe Institute Press
 </summary>
+ <p> The Press was founded on the principle that excellent scholarship need not be prohibitively expensive. At every stage of publication, we strive for    nimbleness, moving quickly to circulate throughout the world new ideas stemming from work conducted by the Santa Fe Institute’s vast network of researchers. 
+
+ <br>
+  
+  Our volumes range from works intended for a general readership to highly technical monographs for specialized audiences and are written by respected thinkers from around the globe working in fields as diverse as paleobiology, historiography, computer science, quantum physics, and medical anthropology—to name but a few. </p>
  
-<p> The Press was founded on the principle that excellent scholarship need not be prohibitively expensive. At every stage of publication, we strive for nimbleness, moving quickly to circulate throughout the world new ideas stemming from work conducted by the Santa Fe Institute’s vast network of researchers. 
+</details>
+
+ Our volumes range from works intended for a general readership to highly technical monographs for specialized audiences and are written by respected thinkers   from around the globe working in fields as diverse as paleobiology, historiography, computer science, quantum physics, and medical anthropology—to name but a few. </p>
+ 
+ <p> The Press was founded on the principle that excellent scholarship need not be prohibitively expensive. At every stage of publication, we strive for    nimbleness, moving quickly to circulate throughout the world new ideas stemming from work conducted by the Santa Fe Institute’s vast network of researchers. 
 
 <br>
 
