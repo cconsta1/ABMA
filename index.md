@@ -10,8 +10,6 @@
 
 "We plan to give this book as a gift to all of our friends for every upcoming holiday. For years." - <i> The Boston Globe </i>
 
-"Hooray!" - <i> Everyone </i>
-
 <br>
 <br>
 
