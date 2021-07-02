@@ -11,7 +11,7 @@ The only way that the picture will left-align all the way with the rest of the w
 ### A book well worth your time . . . 
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" hspace="10" vspace="5" style="width:300px;height:400px;" alt="Textbook Cover"> </a>
 
-"We cannot imagine a book that would better fill the previously empty archaeological textbook modeling niche." - <i> The New York Times </i>
+"We cannot imagine a book that would better fill the previously empty archaeological modeling textbook niche." - <i> The New York Times </i>
 
 "This book is so cool that even a highly critical seven-year-old would like it!" - <i> The Washington Post </i>
 
