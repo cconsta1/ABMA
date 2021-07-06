@@ -28,7 +28,7 @@
 ## PART I:  LEARNING TO WALK
 <a name="Chapter 1"></a>
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
-<i> • Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation </i>
+<i> • Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modeling, simulation, algorithm • What is pseudocode? • Model documentation </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
@@ -40,7 +40,7 @@
 
 <a name="Chapter 3"></a>
 ### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
-<i> • Tutorial in advanced NetLogo: complex structures • Definitions of parametrization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code? </i>
+<i> • Tutorial in advanced NetLogo: complex structures • Definitions of parameterization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code? </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
@@ -64,7 +64,7 @@
 
 <a name="Chapter 6"></a>
 ### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
-<i> • Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data </i>
+<i> • Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parameterization & model’s input data </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
