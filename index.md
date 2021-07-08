@@ -1,7 +1,9 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
-<p style="color: #E66100"> "In the course of an excavation, when something comes up out of the ground, everything is cleared away very carefully all around it. You take away the loose earth, and you scrape here and there with a knife until finally your object is there, all alone, ready to be drawn and photographed with no extraneous matter confusing it. This is what I have been seeking to do—clear away the extraneous matter so that we can see the truth." –Agatha Christie, <i> Death on the Nile </i> (1937) </p>
+<p style="color: #E66100"> "In the course of an excavation, when something comes up out of the ground, everything is cleared away very carefully all around it. You take away the loose earth, and you scrape here and there with a knife until finally your object is there, all alone, ready to be drawn and photographed with no extraneous matter confusing it. This is what I have been seeking to do—clear away the extraneous matter so that we can see the truth." </p>
+<br>
+<p> –Agatha Christie, <i> Death on the Nile </i> (1937) </p>
 <a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" hspace="10" vspace="5" style="width:300px;height:400px;" alt="Textbook Cover"> </a>
 
 "We cannot imagine a book that would better fill the previously empty archaeological modeling textbook niche." - <i> The New York Times </i>
