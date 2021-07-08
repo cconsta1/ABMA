@@ -109,6 +109,7 @@
 
 <a name="Entire Book (PDF)"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> Entire Book (PDF) </a>
+<p> See the "To Order Book" section below to order your hard copy of the text. </p>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> External Resources </a>
