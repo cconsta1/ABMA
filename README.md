@@ -24,10 +24,10 @@ The anchors on the sidebar are put in place with the following code:
 (1)      `<a style="color: #E66100" href="#INTRODUCTION">Ch. 0 • Introduction</a>` \
 (2)      `<a href="path/to/contributing/index.md#INTRODUCTION">`
       
-The text `>Ch. 0 • Introduction</a>` will appear in the sidebar as a clickable link. The `href="path/to/contributing/index.md#INTRODUCTION">` is the code that makes the anchor work. This references the following code in the `index.md`:
+The text "Ch. 0 • Introduction" in `>Ch. 0 • Introduction</a>` will appear in the sidebar as a clickable link. The `href="path/to/contributing/index.md#INTRODUCTION">` is the code that makes the anchor work. This references the following code in the `index.md` (the section that contains the body of the website) where we named the introductory section:
   
 (3)      `<a name="INTRODUCTION"></a>` \
 (4)      `### INTRODUCTION: The Art & Science of Building Societies in Silico`
 
-which, along with the href part of (1), relies on the `name="INTRODUCTION">` being *above* the actual Introduction title in order for the anchor to redirect to the title. If `name="INTRODUCTION">` were located underneath the actual Introduction title, the anchor redirection would omit the title and direct the readers straight to the chapter description. 
+The above code (3 and 4), along with the `href` part of (1), relies on the `name="INTRODUCTION">` being *above* the actual Introduction title in order for the anchor to redirect to the title. If `name="INTRODUCTION">` were located underneath the actual Introduction title, the anchor redirection would omit the title and direct the readers straight to the chapter description. 
   
