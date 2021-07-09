@@ -34,7 +34,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
-### Chapter 2: Trading up to Complex Models of Economic Interaction
+### <span style="color:	#585858"> Chapter 2: Trading up to Complex Models of Economic Interaction </span>
 <i> • Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
