@@ -17,7 +17,7 @@
 <a style="color: #E66100" href="https://www.npr.org/"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
 
 <a name="INTRODUCTION"></a>
-### INTRODUCTION: The Art & Science of Building Societies in Silico
+### <span style="color:	#36454F"> INTRODUCTION: The Art & Science of Building Societies in Silico </span>
 <i> • Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -26,9 +26,9 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh image: brown hill and red waves with brown path of lines and entry wall/">
 
 <a name="Part I: LEARNING TO WALK"></a>
-## PART I:  LEARNING TO WALK
+## <span style="color:	#36454F"> PART I:  LEARNING TO WALK </span>
 <a name="Chapter 1"></a>
-### Chapter 1: The Foundational Steps of Building an Agent-Based Model
+### <span style="color:	#36454F"> Chapter 1: The Foundational Steps of Building an Agent-Based Model </span>
 <i> • Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modeling, simulation, algorithm • What is pseudocode? • Model documentation </i>
 
 <a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
