@@ -110,14 +110,14 @@
 
 <a name="Entire Book (PDF)"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> Entire Book (PDF) </a>
-<p> See the orange "To Order Book" link below the "About the Authors" section to order your hard copy of the text. </p>
+<p> Click the orange "To Order Book" link below the "About the Authors" section to order your hard copy of the text. </p>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> External Resources </a>
 
 <details>
 <summary>
-Click here to see the list of external resources.
+Click here to expand the list of external resources.
 </summary>
  <br>
  We could have text here or delete it and rely only on descriptions immediately underneath the links. (Optional line break above and below.)
@@ -131,7 +131,7 @@ Click here to see the list of external resources.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> mailing group for CIAA </a> </li>
   Another description here for the mailing group.
   <li> <a href="https://www.complexityexplorer.org/"> Complexity Explorer </a> </li>
-  Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the link above.
+  Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> SFI course </a> </li>
   Another description here for something else.
  </ol>
