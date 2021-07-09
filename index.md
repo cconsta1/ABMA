@@ -110,7 +110,7 @@
 
 <a name="Entire Book (PDF)"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> Entire Book (PDF) </a>
-<p> See the "To Order Book" section below to order your hard copy of the text. </p>
+<p> See the orange "To Order Book" link below the "About the Authors" section to order your hard copy of the text. </p>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/"> External Resources </a>
@@ -124,16 +124,16 @@ Click here to see the list of external resources.
  <br>
  <br>
  <ol>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> NetLogo </a> </li>
-  A description here for NetLogo.
+  <li> <a href="https://ccl.northwestern.edu/netlogo/download.shtml"> NetLogo </a> </li>
+  This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Other ABM book. </a> </li>
   Another description here for the other ABM book.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> mailing group for CIAA </a> </li>
   Another description here for the mailing group.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Complexity Explorer </a> </li>
-  Another description here for Complexity Explorer.
+  <li> <a href="https://www.complexityexplorer.org/"> Complexity Explorer </a> </li>
+  Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the link above.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> SFI course </a> </li>
-  Another description here for an SFI course.
+  Another description here for something else.
  </ol>
 </details>
 
@@ -200,6 +200,7 @@ About The SFI Press
  <center>
  <a href="https://www.sfipress.org/"> <img src="https://images.squarespace-cdn.com/content/5d420e5d999d0200013d33c3/1564611462862-ZZCEQCTXQZT3DQFEWN18/SFI+PRESS_bw-01.png?content-type=image%2Fpng" class="center" style="width:400px;height:150px;" alt="SFI Press logo"> </a>
  </center>
+ <br>
  <p> The Press was founded on the principle that excellent scholarship need not be prohibitively expensive. At every stage of publication, we strive for    nimbleness, moving quickly to circulate throughout the world new ideas stemming from work conducted by the Santa Fe Institute’s vast network of researchers.</p>
   <br>
   <p> Our volumes range from works intended for a general readership to highly technical monographs for specialized audiences and are written by respected thinkers from around the globe working in fields as diverse as paleobiology, historiography, computer science, quantum physics, and medical anthropology—to name but a few. </p>
