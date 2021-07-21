@@ -1,18 +1,18 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # <span style="color:	#36454F"> AGENT-BASED MODELING FOR ARCHAEOLOGY </span>
 
-<a href="https://www.npr.org/"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" style="margin: 0px 20px 0px 0px; width:300px;height:400px;" alt="Textbook Cover"> </a>
+<a href="https://www.npr.org/" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" style="margin: 0px 20px 0px 0px; width:300px;height:400px;" alt="Textbook Cover"> </a>
 
 <p> "In the course of an excavation, when something comes up out of the ground, everything is cleared away very carefully all around it. You take away the loose earth, and you scrape here and there with a knife until finally your object is there, all alone, ready to be drawn and photographed with no extraneous matter confusing it. This is what I have been seeking to do—clear away the extraneous matter so that we can see the truth."
 –Agatha Christie, <i> Death on the Nile </i> (1937) </p>
 
-<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> Order the Book </a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Order the Book </a>
 
 <a name="INTRODUCTION"></a>
 ### <span style="color:	#36454F"> INTRODUCTION: The Art & Science of Building Societies in Silico </span>
 <i> • Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh image: brown hill and red waves with brown path of lines and entry wall/">
@@ -23,19 +23,19 @@
 ### <span style="color:	#36454F"> Chapter 1: The Foundational Steps of Building an Agent-Based Model </span>
 <i> • Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modeling, simulation, algorithm • What is pseudocode? • Model documentation </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
 ### <span style="color:	#585858"> Chapter 2: Trading up to Complex Models of Economic Interaction </span>
 <i> • Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 3"></a>
 ### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
 <i> • Tutorial in advanced NetLogo: Complex structures • Definitions of parameterization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code? </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh image: green plant with red circular flowers and green sprigs, yellow background, city within walls on left.">
 
@@ -45,21 +45,21 @@
 ### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
 <i> • Algorithm zoo: pedestrian movement, e.g., random walk • Algorithm zoo: group migrations & population dispersals • Simulation scales • Types of validation • What is equifinality? </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch4"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch4" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 5"></a>
 ### Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? 
 <i> • Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch5"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch5" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 6"></a>
 ### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
 <i> • Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parameterization & model’s input data </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh image: salmon-colored waves on right side with yellow and salmon-colored buildings inside city walls to the left.">
@@ -70,19 +70,19 @@
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
 <i> • Types of spatial data • Tutorial on how to handle GIS data in NetLogo • How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch7"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch7" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 8"></a>
 ### Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
 <i> • Theory to data modeling spectrum • What is relational data? • Tutorial on NetLogo’s network extension • Fundamentals of network science • How to test the code? </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch8"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch8" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 9"></a>
 ### Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
 <i> • The principles of experiment design • Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs </i>
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch9"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch9" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Nasuh image: lines of tall & skinny trees along sidewalks, round & tall buildings on left, blue/red/orange buildings on right.">
@@ -90,7 +90,7 @@
 <a name="Conclusion"></a>
 ## Conclusion
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w" alt="Nasuh image: tan ground with city inside circular walls.">
@@ -98,14 +98,14 @@
 <a name="Appendix"></a>
 ## Appendix
 
-<a style="color: #E66100" href="https://www.npr.org/"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Entire Book (PDF)"></a>
-## <a style="color: #E66100" href="https://www.npr.org/"> Entire Book (PDF) </a>
+## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Entire Book (PDF) </a>
 <p> Click the orange "To Order Book" link below the "About the Authors" section to order your hard copy of the text. </p>
 
 <a name="External Resources"></a>
-## <a style="color: #E66100" href="https://www.npr.org/"> External Resources </a>
+## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> External Resources </a>
 
 <details>
 <summary>
@@ -116,21 +116,21 @@ Click here to expand the list of external resources.
  <br>
  <br>
  <ol>
-  <li> <a href="https://ccl.northwestern.edu/netlogo/download.shtml"> NetLogo </a> </li>
+  <li> <a href="https://ccl.northwestern.edu/netlogo/download.shtml" target="_blank"> NetLogo </a> </li>
   This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Other ABM book. </a> </li>
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> Other ABM book. </a> </li>
   Another description here for the other ABM book.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> mailing group for CIAA </a> </li>
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> mailing group for CIAA </a> </li>
   Another description here for the mailing group.
-  <li> <a href="https://www.complexityexplorer.org/"> Complexity Explorer </a> </li>
+  <li> <a href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
   Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> SFI course </a> </li>
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI course </a> </li>
   Another description here for something else.
  </ol>
 </details>
 
 <a name="Bibliography"></a>
-## <a style="color: #E66100" href="https://www.npr.org/"> Bibliography </a>
+## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Bibliography </a>
 
 <a name="About the Authors"></a>
 ## About the Authors
@@ -143,7 +143,7 @@ Iza Romanowska
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704154528-LFAG0DHZRXJ2RAKF6U9V/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Iza_Romanowska_475px.jpg?format=750w" alt="Iza Romanowska" style="width:300px;height:300px;">
   
   <br>
-  <a href="https://twitter.com/iza_romanowska?lang=en"> Twitter </a>     <a href="https://aias.au.dk/aias-fellows/iza-romanowska/"> Website </a>
+  <a href="https://twitter.com/iza_romanowska?lang=en" target="_blank"> Twitter </a>     <a href="https://aias.au.dk/aias-fellows/iza-romanowska/" target="_blank"> Website </a>
   
 <p> Iza Romanowska (@Iza_Romanowska) is a computational archaeologist working on the interface between social sciences and computer science. Having originally trained and worked as a prehistoric archaeologist, she switched to computer-based research while undertaking a PhD program at the Institute for Complex Systems Simulation, University of Southampton. She specializes in applications of simulation techniques, in particular agent-based modeling, to social science and humanities topics such as mobility in prehistoric cities, the first out-of-Africa human dispersal, large-scale economic interactions across the Roman Mediterranean and real-time pedestrian flows in modern sports venues. Previously the head of the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center, she is now a COFUND fellow at the Aarhus Institute of Advanced Studies combining data science and simulation techniques to reconstruct demographic trends from archaeological data.
  
@@ -157,8 +157,8 @@ Colin D. Wren
   
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705325008-O1YGEGMQ60OCW3MPDAFJ/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Colin_Wren_375px.jpg?format=750w" alt="Colin D. Wren" style="width:300px;height:300px;">
   <br>
-  <a href="https://twitter.com/cdwren?lang=en"> Twitter </a>     
-  <a href="https://anthropology.uccs.edu/colin-wren"> Website </a>
+  <a href="https://twitter.com/cdwren?lang=en" target="_blank"> Twitter </a>     
+  <a href="https://anthropology.uccs.edu/colin-wren" target="_blank"> Website </a>
   
 <p> Colin D. Wren (@CDWren) is a Palaeolithic archaeologist specializing in computational approaches including agent-based modeling, geographic information science, and data visualization (Ph.D. McGill University). He is Associate Professor of Anthropology at University of Colorado—Colorado Springs, and a research associate with the African Center for Coastal Palaeoscience at Nelson Mandela University. He has published various case studies examining the interactions between human society and the environment on both local and continental scales. Dr. Wren is interested in reconstructing the evolution of past mobility and foraging behavior, complex cognition, and human–environment dynamics. His ongoing projects include models of South African foraging behavior during periods relevant to the evolution of <i>Homo sapiens</i> and the impacts of climatic variability on inter-regional mobility and social interaction during the Last Glacial Maximum (ca. 20,000 years ago) in Western Europe.
 </p>
@@ -173,19 +173,19 @@ Stefani A. Crabtree
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705324014-Y9LFV2KC712F96HDOVK8/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Stefani_Crabtree_375px.jpg?format=750w" alt="Stefani A. Crabtree" style="width:300px;height:300px;"> 
              
  <br>
-  <a href="https://twitter.com/stefanicrabtree?lang=en"> Twitter </a>     
-  <a href="https://stefanicrabtree.com/"> Website </a>
+  <a href="https://twitter.com/stefanicrabtree?lang=en" target="_blank"> Twitter </a>     
+  <a href="https://stefanicrabtree.com/" target="_blank"> Website </a>
   
 <p> Stefani Crabtree (@stefanicrabtree) is a computational social scientist with a Ph.D. in anthropology from Washington State University and a PhD in archéologie, territoires, et environnements from the Université de France-Comté. She is the ASU-SFI Biosocial Complex Systems Fellow at the Santa Fe Institute and Assistant Professor of Social-Environmental Modeling at Utah State University, and additionally holds external affiliations at the Australian Research Council Center of Excellence for Australian Biodiversity and Heritage, Crow Canyon Archaeological Center, and the Center for Research and Interdisciplinarity in Paris, France. Her research aims to understand the complex ways that humans are embedded in ecosystems, and how choices humans made thousands to tens of thousands of years ago have lasting impacts on environments today. Her recent work includes examining human migration into Australia ~50-70,000 years ago, human trophic levels via both assemblages of isotopes and food web modeling, and work directing the ArchaeoEcology Project, which brings together ecologists, archaeologists, geologists, and anthropologists to understand the deep time of the human place in ecosystems.
 </p>
 </details>
              
 <a name="To Order Book"></a>                 
-## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021"> To Order Book </a>
+## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> To Order Book </a>
 
 
 <a name="SFI Press"></a>
-## <a style="color: #E66100" href="https://www.sfipress.org/"> The Santa Fe Institute Press </a>
+## <a style="color: #E66100" href="https://www.sfipress.org/" target="_blank"> The Santa Fe Institute Press </a>
 <details>
 <summary>
 About The SFI Press
