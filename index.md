@@ -98,12 +98,15 @@
 
 <a name="Appendix"></a>
 ## Appendix
+<i> • Glossary • The ABMA Model Zoo • Making Colorblind-Friendly ABMS </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Entire Book (PDF)"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Entire Book (PDF) </a>
-<p> Click the orange "To Order Book" link below the "About the Authors" section to order your hard copy of the text. </p>
+
+<a name="To Order Book"></a>                 
+## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> To Order Book </a>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> External Resources </a>
@@ -119,14 +122,16 @@ Click here to expand the list of external resources.
  <ol>
   <li> <a href="https://ccl.northwestern.edu/netlogo/download.shtml" target="_blank"> NetLogo </a> </li>
   This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> Other ABM book. </a> </li>
-  Another description here for the other ABM book.
+  <li> <a href="http://www.railsback-grimm-abm-book.com/" target="_blank"> Railsback and Grimm (2019) </a> </li>
+  <i> Agent-based and individual-based modeling: a practical introduction, 2nd edition </i> by Railsback and Grimm (2019) is a practical textbook, focusing mostly on ecological complex systems and providing instruction for programming in NetLogo.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> mailing group for CIAA </a> </li>
   Another description here for the mailing group.
   <li> <a href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
   Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI course </a> </li>
   Another description here for something else.
+  <li> <a href="https://groups.google.com/g/css_sig/?pli=1" target="_blank"> Complex Systems Simulation in Archaeology </a> </li>
+  This Google Group / Mailing list is a special interest group of Computer Applications & Quantitative Methods in Archaeology (CAA) International dedicated to bringing together people simulating the past.
  </ol>
 </details>
 
@@ -180,9 +185,6 @@ Stefani A. Crabtree
 <p> Stefani Crabtree (@stefanicrabtree) is a computational social scientist with a Ph.D. in anthropology from Washington State University and a PhD in archéologie, territoires, et environnements from the Université de France-Comté. She is the ASU-SFI Biosocial Complex Systems Fellow at the Santa Fe Institute and Assistant Professor of Social-Environmental Modeling at Utah State University, and additionally holds external affiliations at the Australian Research Council Center of Excellence for Australian Biodiversity and Heritage, Crow Canyon Archaeological Center, and the Center for Research and Interdisciplinarity in Paris, France. Her research aims to understand the complex ways that humans are embedded in ecosystems, and how choices humans made thousands to tens of thousands of years ago have lasting impacts on environments today. Her recent work includes examining human migration into Australia ~50-70,000 years ago, human trophic levels via both assemblages of isotopes and food web modeling, and work directing the ArchaeoEcology Project, which brings together ecologists, archaeologists, geologists, and anthropologists to understand the deep time of the human place in ecosystems.
 </p>
 </details>
-             
-<a name="To Order Book"></a>                 
-## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> To Order Book </a>
 
 
 <a name="SFI Press"></a>
