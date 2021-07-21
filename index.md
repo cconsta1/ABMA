@@ -6,7 +6,7 @@
 <p> "In the course of an excavation, when something comes up out of the ground, everything is cleared away very carefully all around it. You take away the loose earth, and you scrape here and there with a knife until finally your object is there, all alone, ready to be drawn and photographed with no extraneous matter confusing it. This is what I have been seeking to do—clear away the extraneous matter so that we can see the truth."
 –Agatha Christie, <i> Death on the Nile </i> (1937) </p>
 
-<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Order the Book </a> <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA" target="_blank"> ABMA Code Repo </a>
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Get PDF of Book </a>     <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Order the Book </a>     <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA" target="_blank"> ABMA Code Repo </a>
 
 <a name="INTRODUCTION"></a>
 ### <span style="color:	#36454F"> INTRODUCTION: The Art & Science of Building Societies in Silico </span>
