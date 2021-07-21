@@ -98,7 +98,7 @@
 
 <a name="Appendix"></a>
 ## Appendix
-<i> • Glossary • The ABMA Model Zoo • Making Colorblind-Friendly ABMS </i>
+<i> • Glossary • The ABMA Model Zoo • Making Colorblind-Friendly ABMs </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
@@ -122,16 +122,14 @@ Click here to expand the list of external resources.
  <ol>
   <li> <a href="https://ccl.northwestern.edu/netlogo/download.shtml" target="_blank"> NetLogo </a> </li>
   This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
-  <li> <a href="http://www.railsback-grimm-abm-book.com/" target="_blank"> Railsback and Grimm (2019) </a> </li>
-  <i> Agent-based and individual-based modeling: a practical introduction, 2nd edition </i> by Railsback and Grimm (2019) is a practical textbook, focusing mostly on ecological complex systems and providing instruction for programming in NetLogo.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> mailing group for CIAA </a> </li>
-  Another description here for the mailing group.
-  <li> <a href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
-  Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI course </a> </li>
-  Another description here for something else.
+  <li> <a href="http://www.railsback-grimm-abm-book.com/" target="_blank"> <i> Agent-based and individual-based modeling: a practical introduction, 2nd edition </i> </a> </li>
+  This practical textbook, written by Railsback and Grimm (2019), focuses mostly on ecological complex systems and provides instruction for programming in NetLogo.
   <li> <a href="https://groups.google.com/g/css_sig/?pli=1" target="_blank"> Complex Systems Simulation in Archaeology </a> </li>
   This Google Group / Mailing list is a special interest group of Computer Applications & Quantitative Methods in Archaeology (CAA) International dedicated to bringing together people simulating the past.
+  <li> <a href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
+  Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI ABM course? </a> </li>
+  Another description here for something else.
  </ol>
 </details>
 
