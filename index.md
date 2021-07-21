@@ -89,6 +89,7 @@
 
 <a name="Conclusion"></a>
 ## Conclusion
+<i> • Model-based thinking • Building good models • Being a good modeler • Modeling for the future </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
@@ -160,7 +161,7 @@ Colin D. Wren
   <a href="https://twitter.com/cdwren?lang=en" target="_blank"> Twitter </a>     
   <a href="https://anthropology.uccs.edu/colin-wren" target="_blank"> Website </a>
   
-<p> Colin D. Wren (@CDWren) is a Palaeolithic archaeologist specializing in computational approaches including agent-based modeling, geographic information science, and data visualization (Ph.D. McGill University). He is Associate Professor of Anthropology at University of Colorado—Colorado Springs, and a research associate with the African Center for Coastal Palaeoscience at Nelson Mandela University. He has published various case studies examining the interactions between human society and the environment on both local and continental scales. Dr. Wren is interested in reconstructing the evolution of past mobility and foraging behavior, complex cognition, and human–environment dynamics. His ongoing projects include models of South African foraging behavior during periods relevant to the evolution of <i>Homo sapiens</i> and the impacts of climatic variability on inter-regional mobility and social interaction during the Last Glacial Maximum (ca. 20,000 years ago) in Western Europe.
+<p> Colin D. Wren (@CDWren) is a Palaeolithic archaeologist specializing in computational approaches including agent-based modeling, geographic information science, and data visualization (Ph.D. McGill University). He is an Associate Professor of Anthropology at University of Colorado—Colorado Springs, and a research associate with the African Center for Coastal Palaeoscience at Nelson Mandela University. He has published various case studies examining the interactions between human society and the environment on both local and continental scales. Dr. Wren is interested in reconstructing the evolution of past mobility and foraging behavior, complex cognition, and human–environment dynamics. His ongoing projects include models of South African foraging behavior during periods relevant to the evolution of <i>Homo sapiens</i> and the impacts of climatic variability on inter-regional mobility and social interaction during the Last Glacial Maximum (ca. 20,000 years ago) in Western Europe.
 </p>
  
 </details>
