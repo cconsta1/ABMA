@@ -134,7 +134,9 @@ Click here to expand the list of external resources.
 </details>
 
 <a name="Bibliography"></a>
-## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Bibliography </a>
+## Bibliography
+
+<a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Bibliography as PDF </a>     <a style="color: #E66100" href="https://www.zotero.org/groups/2296954/abma_textbook/library" target="_blank"> Web Bibliography (Zotero) </a>
 
 <a name="About the Authors"></a>
 ## About the Authors
