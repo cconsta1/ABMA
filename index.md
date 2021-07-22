@@ -106,7 +106,7 @@
 ## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Entire Book (PDF) </a>
 
 <a name="To Order Book"></a>                 
-## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Order the Book </a>
+## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Buy Print Book </a>
 
 <a name="External Resources"></a>
 ## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> External Resources </a>
