@@ -103,7 +103,7 @@
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Download Book (PDF)"></a>
-## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Entire Book (PDF) </a>
+## <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Download Book (PDF) </a>
 
 <a name="To Order Book"></a>                 
 ## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Buy Print Book </a>
