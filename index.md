@@ -122,10 +122,10 @@ Click here to expand the list of external resources.
  <ol>
   <li> <a style="color: #E66100" href="https://ccl.northwestern.edu/netlogo/download.shtml" target="_blank"> NetLogo </a> </li>
   This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
-  <li> <a style="color: #E66100" href="http://www.railsback-grimm-abm-book.com/" target="_blank"> <i> Agent-based and individual-based modeling: a practical introduction, 2nd edition </i> </a> </li>
+  <li> <a style="color: #E66100" href="http://www.railsback-grimm-abm-book.com/" target="_blank"> <i> Agent-Based and Individual-Based Modeling: A Practical Introduction, 2nd Edition </i> </a> </li>
   This practical textbook, written by Railsback and Grimm (2019), focuses mostly on ecological complex systems and provides instruction for programming in NetLogo.
   <li> <a style="color: #E66100" href="https://groups.google.com/g/css_sig/?pli=1" target="_blank"> Complex Systems Simulation in Archaeology </a> </li>
-  This Google Group / Mailing list is a special interest group of Computer Applications & Quantitative Methods in Archaeology (CAA) International dedicated to bringing together people simulating the past.
+  This Google Group / Mailing list, run by Iza Romanowska, is a special interest group of Computer Applications & Quantitative Methods in Archaeology (CAA) International dedicated to bringing together people simulating the past. Follow Google's instructions to ask to join the group. 
   <li> <a style="color: #E66100" href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
   Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
   <li> <a style="color: #E66100" href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI ABM course? </a> </li>
