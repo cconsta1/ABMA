@@ -88,7 +88,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Nasuh image: lines of tall & skinny trees along sidewalks, round & tall buildings on left, blue/red/orange buildings on right.">
 
 <a name="Conclusion"></a>
-## Conclusion
+### Chapter 10: Conclusion
 <i> • Model-based thinking • Building good models • Being a good modeler • Modeling for the future </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
