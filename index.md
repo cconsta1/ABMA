@@ -123,9 +123,6 @@
 Click here to expand the list of external resources.
 </summary>
  <br>
- We could have text here or delete it and rely only on descriptions immediately underneath the links. (Optional line break above and below.)
- <br>
- <br>
  <ol>
   <li> <a style="color: #E66100" href="https://ccl.northwestern.edu/netlogo/download.shtml" target="_blank"> NetLogo </a> </li>
   This textbook uses NetLogo, a multiagent programmable modeling environment created by Uri Wilensky and developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL). Click the "NetLogo" link to download NetLogo.
