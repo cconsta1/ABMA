@@ -26,13 +26,13 @@
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
-### <span style="color:	#585858"> Chapter 2: Trading up to Complex Models of Economic Interaction </span>
+### <span style="color:	#36454F"> Chapter 2: Trading up to Complex Models of Economic Interaction </span>
 <i> • Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists, and plots • Building up to complex models • Definitions of scale, entity, stochasticity • Principles of code development and debugging techniques </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 3"></a>
-### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
+### <span style="color:	#36454F"> Chapter 3: Reaping the Rewards: Addressing Archaeological Questions </span>
 <i> • Tutorial in advanced NetLogo: complex structures • Definitions of parameterization, artificial data, validation, and equifinality • Simulating archaeological record and validation against data • Writing efficient code </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch3" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -40,23 +40,23 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh image: green plant with red circular flowers and green sprigs, yellow background, city within walls on left.">
 
 <a name="Part II: LEARNING TO RUN"></a>
-## Part II: LEARNING TO RUN
+## <span style="color:	#36454F"> Part II: LEARNING TO RUN </span>
 <a name="Chapter 4"></a>
-### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
+### <span style="color:	#36454F"> Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark? </span>
 <i> • Algorithm zoo: pedestrian movement, group migration, and population dispersals • Simulation scales • Types of validation • What is equifinality? </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch4" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 5"></a>
-### Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? 
+### <span style="color:	#36454F"> Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? </span>
 <i> • Algorithm zoo: economic interactions and cultural evolution • Supply and demand, price setting, barter algorithms • Cultural transmission, biases, innovation, and cumulative cultural algorithms • Epidemiological modeling • Developing model ontologies • The rule of parsimony </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch5" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
 <a name="Chapter 6"></a>
-### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
+### <span style="color:	#36454F"> Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade? </span>
 <i> • Algorithm zoo: subsistence and resilience • Consumption, subsistence, and resilience strategies • Foraging algorithms • Population dynamics, evolutionary dynamics, and fission–fusion algorithms • Tragedy of the commons • Game theory • Parameterization and model’s input data </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch6" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -65,21 +65,21 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh image: salmon-colored waves on right side with yellow and salmon-colored buildings inside city walls to the left.">
 
 <a name="Part III: LEARNING TO FLY"></a>
-## Part III: LEARNING TO FLY
+## <span style="color:	#36454F"> Part III: LEARNING TO FLY </span>
 <a name="Chapter 7"></a>
-### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
+### <span style="color:	#36454F"> Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM </span>
 <i> • Types of spatial data • Handling GIS data in NetLogo • Modeling spatial interactions • Finding GIS data • Artificial landscapes • Code optimization with the Profiler extension </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch7" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 8"></a>
-### Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
+### <span style="color:	#36454F"> Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science </span>
 <i> • Theory to data modeling spectrum • Working with relational data • Tutorial on NetLogo’s Network extension • Fundamentals of network science • Testing code </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch8" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 9"></a>
-### Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
+### <span style="color:	#36454F"> Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results </span>
 <i> • Principles of experiment design • Tutorial in NetLogo BehaviorSpace • Calibration, sensitivity analysis, and parameter sweep • Analyzing output data in Excel, R, and Python • What is emergence? • Documentation and dissemination of ABMs </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch9" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -88,7 +88,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Nasuh image: lines of tall & skinny trees along sidewalks, round & tall buildings on left, blue/red/orange buildings on right.">
 
 <a name="Conclusion"></a>
-### Chapter 10: Conclusion
+### <span style="color:	#36454F"> Chapter 10: Conclusion </span>
 <i> • Model-based thinking • Building good models • Being a good modeler • Modeling for the future </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -97,7 +97,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w" alt="Nasuh image: tan ground with city inside circular walls.">
 
 <a name="Appendix"></a>
-## Appendix
+## <span style="color:	#36454F"> Appendix </span>
 <i> • Glossary • The ABMA Model Zoo • Making Colorblind-Friendly ABMs </i>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Chapter as PDF </a>     <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
@@ -141,12 +141,12 @@ Click here to expand the list of external resources.
 </details>
 
 <a name="Bibliography"></a>
-## Bibliography
+## <span style="color:	#36454F"> Bibliography </span>
 
 <a style="color: #E66100" href="https://www.npr.org/" target="_blank"> Bibliography as PDF </a>     <a style="color: #E66100" href="https://www.zotero.org/groups/2296954/abma_textbook/library" target="_blank"> Web Bibliography (Zotero) </a>
 
 <a name="About the Authors"></a>
-## About the Authors
+## <span style="color:	#36454F"> About the Authors </span>
 
 <details>
 <summary>
