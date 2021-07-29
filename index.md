@@ -214,5 +214,5 @@ About The SFI Press
 
 
 <p style="color: #E66100">___________________________________________________________________________________________________________________________________</p>
-
+<p style="color:#808080">The contents of this open-access PDF are excerpted from the following textbook, which is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License: Romanowska, I., C.D. Wren, and S.A. Crabtree. 2021. Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies. Santa Fe, NM: SFI Press.</p>
 <p style="color:#808080">Website design: 2021, Santa Fe Institute Press.</p>
