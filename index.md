@@ -23,13 +23,13 @@
 ### <span style="color:	#36454F"> Chapter 1: The Foundational Steps of Building an Agent-Based Model </span>
 <i> • Intro tutorial in NetLogo software: INTERFACE and CODE tabs, agents, and procedures • Definitions of modeling, simulation, and algorithm • What is pseudocode? • Types and purposes of models </i>
 
-<a style="color: #E66100" href="https://santafe.app.box.com/file/839105332240?s=2vw5aizqmcvwnrg8tack7aovwpcoabci" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://santafe.app.box.com/file/839105332240?s=2vw5aizqmcvwnrg8tack7aovwpcoabci" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch1" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 2"></a>
 ### <span style="color:	#36454F"> Chapter 2: Trading up to Complex Models of Economic Interaction </span>
 <i> • Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists, and plots • Building up to complex models • Definitions of scale, entity, stochasticity • Principles of code development and debugging techniques </i>
 
-<a style="color: #E66100" href="https://santafe.app.box.com/file/839103418043" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+<a style="color: #E66100" href="https://santafe.app.box.com/file/839103418043" target="_blank"> Chapter as PDF </a>  <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA/tree/master/ch2" target="_blank"> Chapter Code Repo on GitHub </a>  <a style="color: #E66100" href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 <a name="Chapter 3"></a>
 ### <span style="color:	#36454F"> Chapter 3: Reaping the Rewards: Addressing Archaeological Questions </span>
