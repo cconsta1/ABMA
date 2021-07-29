@@ -112,3 +112,6 @@ sprout-quarry 1 [
   setxy item 0 location item 1 location
 ]
 ```
+
+_________________________________________________________________________________________________________________________
+This textbook and code repository are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
