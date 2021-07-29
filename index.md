@@ -167,7 +167,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1627583021841-144HER9P974SVXER223H/Colin+Wren_2_square.jpg?format=1500w" alt="Colin D. Wren" style="width:300px;height:350px;">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1627583021841-144HER9P974SVXER223H/Colin+Wren_2_square.jpg?format=1500w" alt="Colin D. Wren" style="width:300px;height:300px;">
   <br>
   <a href="https://twitter.com/cdwren?lang=en" target="_blank"> Twitter </a>     
   <a href="https://anthropology.uccs.edu/colin-wren" target="_blank"> Website </a>
