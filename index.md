@@ -215,4 +215,4 @@ About The SFI Press
 
 <p style="color: #E66100">___________________________________________________________________________________________________________________________________</p>
 <p style="color:#808080">Website design: 2021, Santa Fe Institute Press.</p>
-<a style="color: #808080" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">This textbook and code repository are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</a>
+<p style="color #E66100">This textbook and code repository are licensed under a</p> <a style="color: #808080" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License.</a>
