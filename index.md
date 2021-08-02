@@ -1,12 +1,12 @@
 <a name="Agent-Based Modeling for Archaeology"></a>
 # <span style="color:	#36454F"> AGENT-BASED MODELING FOR ARCHAEOLOGY </span>
 
-<a href="https://www.npr.org/" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" style="margin: 0px 20px 0px 0px; width:300px;height:400px;" alt="Textbook Cover"> </a>
+<a href="https://www.sfipress.org/books/agent-based-modeling-archaeology" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1624392531622-KBOK27QOQTS8OP5R2JSG/ABMA_cover_web-600.png?format=1000w" align = "left" style="margin: 0px 20px 0px 0px; width:300px;height:400px;" alt="Textbook Cover"> </a>
 
 <p> "In the course of an excavation, when something comes up out of the ground, everything is cleared away very carefully all around it. You take away the loose earth, and you scrape here and there with a knife until finally your object is there, all alone, ready to be drawn and photographed with no extraneous matter confusing it. This is what I have been seeking to do—clear away the extraneous matter so that we can see the truth."
 –Agatha Christie, <i> Death on the Nile </i> (1937) </p>
 
-<a style="color: #E66100" href="https://santafe.app.box.com/file/839102477779?s=64tasmxpsrhdq5dwjyromtrk4c9lmsv4" target="_blank"> Download Book (PDF) </a>   <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Order the Book </a>   <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA" target="_blank"> ABMA Code Repo </a>
+<a style="color: #E66100" href="https://santafe.app.box.com/file/839102477779?s=64tasmxpsrhdq5dwjyromtrk4c9lmsv4" target="_blank"> Download Book (PDF) </a>   <a style="color: #E66100" href="https://www.amazon.com/dp/1947864254?utm_id=website%20purchase&utm_medium=squarespace&utm_source=website" target="_blank"> Order the Book </a>   <a style="color: #E66100" href="https://github.com/SantaFeInstitute/ABMA" target="_blank"> ABMA Code Repo </a>
 
 <a name="INTRODUCTION"></a>
 ### <span style="color:	#36454F"> INTRODUCTION: The Art & Science of Building Societies in Silico </span>
@@ -109,7 +109,7 @@
 ## <a style="color: #E66100" href="https://santafe.app.box.com/file/839102477779?s=64tasmxpsrhdq5dwjyromtrk4c9lmsv4" target="_blank"> Download Book (PDF) </a>
 
 <a name="To Order Book"></a>                 
-## <a style="color: #E66100" href="https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021" target="_blank"> Buy Print Book </a>
+## <a style="color: #E66100" href="https://www.amazon.com/dp/1947864254?utm_id=website%20purchase&utm_medium=squarespace&utm_source=website" target="_blank"> Buy Print Book </a>
 
 
 <br>
@@ -216,4 +216,4 @@ About The SFI Press
 <p style="color: #E66100">___________________________________________________________________________________________________________________________________</p>
 <p style="color:#808080">Website design: 2021, Santa Fe Institute Press.</p>
 <p style="color:#808080">This textbook and code repository are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
-
+<a style="color: #808080" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">This textbook and code repository are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</a>
