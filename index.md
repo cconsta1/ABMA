@@ -134,8 +134,6 @@ Click here to expand the list of external resources.
   Crooks et al.'s (2019) book provides a more detailed look at integrating ABM and geographic information systems (GIS) methodology from a social sciences perspective.
   <li> <a style="color: #E66100" href="https://www.complexityexplorer.org/" target="_blank"> Complexity Explorer </a> </li>
   Complexity Explorer is an education project of the Santa Fe Institute that delivers online courses, tutorials, and resources essential to the study of complex systems. Past courses include "Origins of Life" and "Nonlinear Dynamics: Mathematical and Computational Approaches." Check out both upcoming and archived courses as well as tutorials at the Complexity Explorer link above.
-  <li> <a style="color: #E66100" href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f" target="_blank"> SFI ABM course? </a> </li>
-  Could put this in place of the Complexity Explorer section.
  </ol>
 </details>
 
