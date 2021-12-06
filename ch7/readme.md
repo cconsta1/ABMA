@@ -1,7 +1,7 @@
 ## Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM
 Models and additional files for chapter 7 of *Agent-based Modeling for Archaeology* by Romanowska, Wren, & Crabtree. 
 
-You will write this model yourself as you work through this chapter but you will need to download the GIS files here to get it working. The quarries *shapefile* is actually all of the files named quarries.xxx. Download all of them and both the dem.xxx files to your model's folder. Alternatively, you could also use your own DEM and shapefile if you have them available. assemblages.asc is an example output file that you will export yourself as you work through the chapter. 
+You will write this model yourself as you work through this chapter but you will need to download the GIS files for quarries and DEM here to get it working. The quarries *shapefile* is actually all of the files named quarries.xxx. These two GIS layers are provided here in a single zip file called ch7_GISfiles.zip. Alternatively, you could also use your own DEM and shapefile if you have them available. assemblages.asc is an example output file that you will export yourself as you work through the chapter. 
 
 Note that on GitHub the usual method of right-clicking a file and choosing "Save Link As..." will not work (you'll get a github webpage version of the file which won't work in NetLogo). Instead left-click on the file you want, then locate the `RAW` button in the top-right. Right-click that and "Save Link As..." to download the files correctly. Alternatively, install [GitHub Desktop](https://desktop.github.com/) and *clone* the whole repository (~100mb).
 
