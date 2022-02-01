@@ -1,1 +1,1 @@
-Find all of the ABMA Chapters here!
+Find and download all of the ABMA Chapters here!
