@@ -4,7 +4,6 @@ globals [ mean-goods ]
 vendors-own [ goods distance-level ]
 producers-own [ goods distance-level ]
 
-;Adding a comment
 
 to setup
   ca
